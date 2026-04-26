@@ -91,7 +91,7 @@ jupyter notebook notebooks/Final_Project.ipynb
 streamlit run app.py
 ```
 
-**Deployed app:** _coming soon_ <!-- replace with your Streamlit Community Cloud URL -->
+**Deployed app:** <!-- (https://econ5200-final-project-uoyazapm2zxnbpuavndwgl.streamlit.app/) -->
 
 ---
 
