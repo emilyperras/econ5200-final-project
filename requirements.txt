@@ -1,0 +1,12 @@
+kagglehub
+pandas
+numpy
+matplotlib
+yfinance
+doubleml
+scikit-learn
+streamlit
+scipy
+plotly
+tqdm
+jupyter
