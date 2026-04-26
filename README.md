@@ -91,10 +91,9 @@ jupyter notebook notebooks/Final_Project.ipynb
 streamlit run app.py
 ```
 
-**Deployed app:** <!-- (https://econ5200-final-project-uoyazapm2zxnbpuavndwgl.streamlit.app/) -->
+**Deployed app:** [https://econ5200-final-project-uoyazapm2zxnbpuavndwgl.streamlit.app/](https://econ5200-final-project-uoyazapm2zxnbpuavndwgl.streamlit.app/)
 
 ---
-
 ## Repository Structure
 
 ```
